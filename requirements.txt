@@ -2,5 +2,5 @@ langchain
 load_dotenv
 langchain-community
 langchain-openai
-langchain-text-splitters
 langchain-core
+langchain-text-splitters
